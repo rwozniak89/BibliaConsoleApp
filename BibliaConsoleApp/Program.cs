@@ -16,7 +16,7 @@ namespace BibliaConsoleApp
             string lastText = string.Empty;
             string text = string.Empty;
 
-            Console.WriteLine("Program do konwersji tekstu na bibliografię. Wciśnij klawisz \\ po skopiowaniu tekstu, aby uruchomić parser");
+            Console.WriteLine("Program do konwersji tekstu na bibliografię wg popularnego formatu. Wciśnij klawisz \\ po skopiowaniu tekstu, aby uruchomić parser");
 
             while (true)
             {
